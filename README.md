@@ -12,7 +12,7 @@ El objetivo es mostrar el uso de componentes, rutas y consumo de datos simulando
 
 
 ## Estructura del proyecto
-
+```
 src/
 │
 ├── assets/
@@ -37,7 +37,7 @@ src/
 │
 ├── App.vue                       → componente raíz
 └── main.js                       → punto de entrada de la app
-
+```
 
 ## Modularización
 
